@@ -1,0 +1,12 @@
+D:\Sources\c#\repos\CSharpLords\SharedHomework\09\Quiz\bin\Debug\Quiz.exe.config
+D:\Sources\c#\repos\CSharpLords\SharedHomework\09\Quiz\bin\Debug\Quiz.exe
+D:\Sources\c#\repos\CSharpLords\SharedHomework\09\Quiz\bin\Debug\Quiz.pdb
+D:\Sources\c#\repos\CSharpLords\SharedHomework\09\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+D:\Sources\c#\repos\CSharpLords\SharedHomework\09\Quiz\obj\Debug\Quiz.exe
+D:\Sources\c#\repos\CSharpLords\SharedHomework\09\Quiz\obj\Debug\Quiz.pdb
+d:\Sources\c#\repos\CSharpKings\SharedHomework\09\Quiz\bin\Debug\Quiz.exe.config
+d:\Sources\c#\repos\CSharpKings\SharedHomework\09\Quiz\obj\Debug\Quiz.exe
+d:\Sources\c#\repos\CSharpKings\SharedHomework\09\Quiz\obj\Debug\Quiz.pdb
+d:\Sources\c#\repos\CSharpKings\SharedHomework\09\Quiz\bin\Debug\Quiz.exe
+d:\Sources\c#\repos\CSharpKings\SharedHomework\09\Quiz\bin\Debug\Quiz.pdb
+d:\Sources\c#\repos\CSharpKings\SharedHomework\09\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache

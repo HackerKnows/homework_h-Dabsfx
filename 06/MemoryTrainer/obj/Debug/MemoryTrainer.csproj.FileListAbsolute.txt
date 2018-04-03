@@ -1,0 +1,18 @@
+D:\Sources\c#\repos\CSharpLords\Common\09. while\MemoryTrainer\bin\Debug\MemoryTrainer.exe.config
+D:\Sources\c#\repos\CSharpLords\Common\09. while\MemoryTrainer\bin\Debug\MemoryTrainer.exe
+D:\Sources\c#\repos\CSharpLords\Common\09. while\MemoryTrainer\bin\Debug\MemoryTrainer.pdb
+D:\Sources\c#\repos\CSharpLords\Common\09. while\MemoryTrainer\obj\Debug\MemoryTrainer.csprojResolveAssemblyReference.cache
+D:\Sources\c#\repos\CSharpLords\Common\09. while\MemoryTrainer\obj\Debug\MemoryTrainer.exe
+D:\Sources\c#\repos\CSharpLords\Common\09. while\MemoryTrainer\obj\Debug\MemoryTrainer.pdb
+d:\Sources\c#\repos\CSharpLords\SharedHomework\09\MemoryTrainer\bin\Debug\MemoryTrainer.exe.config
+d:\Sources\c#\repos\CSharpLords\SharedHomework\09\MemoryTrainer\obj\Debug\MemoryTrainer.exe
+d:\Sources\c#\repos\CSharpLords\SharedHomework\09\MemoryTrainer\obj\Debug\MemoryTrainer.pdb
+d:\Sources\c#\repos\CSharpLords\SharedHomework\09\MemoryTrainer\bin\Debug\MemoryTrainer.exe
+d:\Sources\c#\repos\CSharpLords\SharedHomework\09\MemoryTrainer\bin\Debug\MemoryTrainer.pdb
+d:\Sources\c#\repos\CSharpLords\SharedHomework\09\MemoryTrainer\obj\Debug\MemoryTrainer.csprojResolveAssemblyReference.cache
+d:\Sources\c#\repos\CSharpKings\SharedHomework\09\MemoryTrainer\bin\Debug\MemoryTrainer.exe.config
+d:\Sources\c#\repos\CSharpKings\SharedHomework\09\MemoryTrainer\obj\Debug\MemoryTrainer.exe
+d:\Sources\c#\repos\CSharpKings\SharedHomework\09\MemoryTrainer\obj\Debug\MemoryTrainer.pdb
+d:\Sources\c#\repos\CSharpKings\SharedHomework\09\MemoryTrainer\bin\Debug\MemoryTrainer.exe
+d:\Sources\c#\repos\CSharpKings\SharedHomework\09\MemoryTrainer\bin\Debug\MemoryTrainer.pdb
+d:\Sources\c#\repos\CSharpKings\SharedHomework\09\MemoryTrainer\obj\Debug\MemoryTrainer.csprojResolveAssemblyReference.cache
